@@ -6,4 +6,4 @@ The goal of the project to understand how data can be collected from websites an
 
 A word cloud was formed to understand the data better.
 
-![Screenshot](C:\Users\Gowtham\PycharmProjects\Covid19-News-Data-Analysis\Dataset\Figure_1.png)
+![Word Cloud](https://github.com/gowthammk/Covid19-News-Data-Analysis/blob/main/Dataset/Figure_1.png)
